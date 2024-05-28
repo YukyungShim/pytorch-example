@@ -1,4 +1,5 @@
 # PyTorch Examples
+
 ![github CI](https://github.com/pytorch/pytorch-examples/workflows/.github/workflows/main.yml/badge.svg)
 
 A repository showcasing examples of using [PyTorch](https://github.com/pytorch/pytorch)
@@ -19,3 +20,6 @@ A repository showcasing examples of using [PyTorch](https://github.com/pytorch/p
 Additionally, a list of good examples hosted in their own repositories:
 
 - [Neural Machine Translation using sequence-to-sequence RNN with attention (OpenNMT)](https://github.com/OpenNMT/OpenNMT-py)
+
+- Yukyung, Shim
+- 심유경
